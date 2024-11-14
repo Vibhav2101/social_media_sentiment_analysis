@@ -1,0 +1,217 @@
+text,sentiment
+"I love this phone! Best purchase ever!",positive
+"This product is awful. I want a refund.",negative
+"The service was great, but the food was terrible.",negative
+"Awesome experience! Highly recommend it.",positive
+"I can't wait to visit again. It was a wonderful stay!",positive
+"Terrible. I will never come back here again.",negative
+"Not worth the price. Very disappointed.",negative
+"Absolutely fantastic! Exceeded all my expectations.",positive
+"Will definitely buy this again!",positive
+"This place is not as good as the reviews suggest.",negative
+"Fantastic quality, highly recommend it!",positive
+"The movie was a huge disappointment.",negative
+"I love how easy it is to use this product!",positive
+"Not worth the hype. Overpriced.",negative
+"Great customer service. I'll be back!",positive
+"Very bad quality, would not recommend.",negative
+"Totally exceeded my expectations, amazing!",positive
+"Awful experience, will never return.",negative
+"Great purchase, I’m so happy with it!",positive
+"The food was decent but not worth the wait.",negative
+"Super happy with my decision to buy this!",positive
+"One of the worst experiences I've ever had.",negative
+"Exceeded expectations! Would definitely recommend.",positive
+"Not as advertised. Very disappointed.",negative
+"Absolutely perfect! Worth every penny!",positive
+"I would never buy this again.",negative
+"Great quality, very satisfied with my purchase.",positive
+"Terrible, don't waste your money on this.",negative
+"Great service, but the food was terrible.",negative
+"I'm extremely happy with this purchase.",positive
+"Completely dissatisfied, would not recommend.",negative
+"The best product I’ve ever bought, amazing!",positive
+"Really poor experience. I won’t be returning.",negative
+"Everything about this is just perfect!",positive
+"Too expensive for what it offers.",negative
+"Highly recommend this product! Works great.",positive
+"Completely awful. I would not suggest this.",negative
+"Very pleased with my purchase. Great value.",positive
+"Didn't meet my expectations at all.",negative
+"Love it! Best purchase I’ve made in years.",positive
+"Not as good as expected. Very disappointing.",negative
+"Couldn’t be happier with my decision!",positive
+"Awful quality. Definitely not worth it.",negative
+"Excellent product! I’m so impressed.",positive
+"This is not worth the price. Very cheap.",negative
+"Totally worth it! So happy with this.",positive
+"Terrible, I want a refund immediately.",negative
+"Best purchase ever! So happy with it.",positive
+"Very disappointed, won't be coming back.",negative
+"Exactly what I needed, couldn’t be better.",positive
+"Completely overpriced for the quality.",negative
+"Fantastic quality and amazing customer service.",positive
+"This product broke after one use.",negative
+"Extremely satisfied! It works perfectly.",positive
+"Very bad experience, I won't recommend it.",negative
+"Best purchase ever. Worth every penny.",positive
+"Extremely disappointing. Not what I expected.",negative
+"Very high quality, would definitely buy again!",positive
+"I regret purchasing this. Terrible product.",negative
+"Super easy to use and very effective.",positive
+"Not worth the money at all.",negative
+"Excellent, would buy again without hesitation.",positive
+"Completely dissatisfied. Do not buy.",negative
+"Great experience. I highly recommend this product!",positive
+"This is a total waste of money.",negative
+"I am so impressed with the results!",positive
+"Don’t waste your money on this, it’s terrible.",negative
+"Very happy with the product and service.",positive
+"Definitely not what I expected, terrible.",negative
+"I’m in love with this product! Best ever.",positive
+"This is the worst experience I’ve had.",negative
+"Great value for the price!",positive
+"Extremely poor quality. Do not buy.",negative
+"Totally worth the price. Excellent quality.",positive
+"I will never buy this again. Horrible.",negative
+"Such a great experience! Highly recommend!",positive
+"Completely regret purchasing this.",negative
+"Wonderful! I will definitely buy again.",positive
+"Don’t waste your money. Terrible product.",negative
+"This product is everything I hoped for!",positive
+"Very dissatisfied. Do not purchase.",negative
+"I'm obsessed with this product. Best buy ever!",positive
+"Very bad quality. Don't buy this.",negative
+"Completely worth every penny!",positive
+"One of the worst products I’ve ever purchased.",negative
+"I’m beyond impressed with this product!",positive
+"This is a huge waste of money.",negative
+"Great product! I’m really happy with it.",positive
+"Terrible quality. Very disappointed.",negative
+"Would definitely recommend. Fantastic!",positive
+"Extremely poor service. Never coming back.",negative
+"Fantastic experience. Definitely buying again.",positive
+"Not worth the cost. Would not recommend.",negative
+"Love it! Can’t stop using it.",positive
+"Very disappointed with my purchase.",negative
+"Great quality, definitely recommend.",positive
+"This was a huge letdown. Do not buy.",negative
+"Absolutely amazing, I’ll be back for more!",positive
+"Very bad, don’t waste your money.",negative
+"Wonderful product! I’m thrilled with it.",positive
+"Such a huge disappointment. Don't buy it.",negative
+"Very impressed with the quality. Worth the price.",positive
+"Absolutely terrible. Waste of money.",negative
+"Excellent value! I’m so happy with it.",positive
+"Awful. Never coming back here again.",negative
+"Fantastic! Worth every cent!",positive
+"Terrible experience, never buying again.",negative
+"Highly recommend. Very satisfied!",positive
+"Very unhappy with my purchase.",negative
+"One of the best products I’ve ever bought!",positive
+"Don’t bother buying this. It’s awful.",negative
+"Absolutely love it! Best purchase ever.",positive
+"I will never buy this again. Terrible product.",negative
+"Perfect! Everything I expected and more.",positive
+"Totally disappointed. Wouldn’t recommend.",negative
+"Great experience, very happy with it.",positive
+"Awful quality, totally not worth it.",negative
+"Super happy with this product, highly recommend.",positive
+"Completely regret this purchase.",negative
+"Wonderful! It does exactly what I needed.",positive
+"Very bad product, don’t buy it.",negative
+"Absolutely love this product! So happy.",positive
+"Not worth the price. Very cheap.",negative
+"Highly recommend this to everyone!",positive
+"Such a bad experience. Do not buy this.",negative
+"Very impressed, definitely worth the purchase!",positive
+"Totally regret buying this. Horrible.",negative
+"This supplement has balanced my diet well.",neutral
+"Not sure if I feel different after taking this supplement.",neutral
+"Had a balanced breakfast, but not sure if this protein works.",neutral
+"Pretty good, but doesn’t seem to work for me.",neutral
+"The nutrition facts look good, but I haven’t noticed any difference.",neutral
+"Decent meal, but not sure it lived up to the health claims.",neutral
+"Neutral experience with this energy drink, didn’t feel a big boost.",neutral
+"Meh, this multivitamin doesn’t seem to change anything.",neutral
+"I feel okay after using this product, but no significant results yet.",neutral
+"Not a bad product, but I’m not sure if I’ll buy it again.",neutral
+"Bought this protein, but unsure if it really made any difference.",neutral
+"Didn't feel any major change after using the detox supplement.",neutral
+"Not sure if this diet plan is for me yet, but it’s decent.",neutral
+"Ingredients are healthy, but not sure how effective it is.",neutral
+"I’m not sure if I’ll stick to this nutrition plan, feels alright.",neutral
+"The taste was fine, but no noticeable changes in my energy levels.",neutral
+"Calories seem fine, but still unsure if it’s beneficial in the long run.",neutral
+"Nothing extraordinary, just another snack bar.",neutral
+"Decent taste, but not convinced it’s great for my health.",neutral
+"Just average, doesn’t really feel any different from other options.",neutral
+"Nutrition seems fine, but the flavor isn’t anything special.",neutral
+text,sentiment
+"I love this phone! Best purchase ever!",positive
+"This product is awful. I want a refund.",negative
+"The service was great, but the food was terrible.",negative
+"Awesome experience! Highly recommend it.",positive
+"I can't wait to visit again. It was a wonderful stay!",positive
+"Terrible. I will never come back here again.",negative
+"Not worth the price. Very disappointed.",negative
+"Absolutely fantastic! Exceeded all my expectations.",positive
+"Will definitely buy this again!",positive
+"This place is not as good as the reviews suggest.",negative
+"I like your dress, but it's not my style.",negative
+"Your dress is lovely, I really like it!",positive
+"Honestly, I can't stand this dress.",negative
+"Wow, this dress is amazing!",positive
+"I absolutely love this color!",positive
+"Your dress is perfect for the occasion.",positive
+"I like your dress, but I hate the color.",negative
+text,sentiment
+"I absolutely love this product!",positive
+"This movie was incredible, I’d watch it again.",positive
+"The service at this restaurant was excellent.",positive
+"I’m feeling fantastic today!",positive
+"This book was so inspiring and motivating.",positive
+"I had a wonderful time at the concert last night.",positive
+"This app has been a lifesaver for me.",positive
+"I’m really happy with my new phone!",positive
+"That was such a beautiful sunrise this morning.",positive
+"The vacation was perfect, couldn’t have asked for more.",positive
+"This is the worst movie I’ve ever seen.",negative
+"I’m so disappointed with this product.",negative
+"The food was bland and tasteless.",negative
+"I can’t believe how bad the service was.",negative
+"This app keeps crashing and I can’t use it properly.",negative
+"I feel terrible after that long flight.",negative
+"That was a waste of my time.",negative
+"The customer service is terrible, they didn’t help at all.",negative
+"I don’t think I’ll ever be coming back to this place.",negative
+"This weather is just miserable.",negative
+"The sun is setting.",neutral
+"I read a book today.",neutral
+"The meeting went as expected.",neutral
+"I had lunch in the park today.",neutral
+"The bus was on time.",neutral
+"My phone battery is at 50%.",neutral
+"I spent the afternoon cleaning the house.",neutral
+"I have a few emails to respond to.",neutral
+"The sky looks clear today.",neutral
+"I’m planning to go grocery shopping later.",neutral
+"The phone is good, but it could use better battery life.",positive
+"This coffee maker works well, but it’s a bit noisy.",neutral
+"I didn’t find this pair of shoes comfortable at all.",negative
+"The quality of this jacket is really good for the price.",positive
+"I am very impressed with the camera quality on this phone.",positive
+"It’s a decent product, but not exactly what I was expecting.",neutral
+"The packaging was great, but the contents were damaged.",negative
+"The washing machine works fine, but it’s a bit bulky.",neutral
+"The headphones sound good, but they hurt my ears after a while.",negative
+"This software is easy to use, but it lacks certain features.",neutral
+"I think this new policy is going to have a positive impact.",positive
+"I really enjoy reading books in the mystery genre.",positive
+"In my opinion, summer is the best season.",positive
+"I don’t believe that strategy will work in the long run.",negative
+"I feel that social media has done more harm than good.",negative
+"I love the idea of working remotely, but it’s not for everyone.",neutral
+"In my experience, traveling alone is the most rewarding.",positive
+"I don’t think this restaurant is worth the hype.",negative
+"I believe in the power of positive thinking.",positive

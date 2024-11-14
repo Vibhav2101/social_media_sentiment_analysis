@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment Analysis Web App</title>
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="icon" href="../static/images/favicon.ico" type="image/x-icon">
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Sentiment Analysis</h1>
+        <h2>Enter your statement below:</h2>
+        <form action="/predict" method="post">
+            <textarea name="input_text" rows="5" placeholder="Type your text here..." required></textarea><br>
+            <label for="examples">Or choose a sample tweet:</label>
+            <select name="input_text">
+                <option value="">--Select Sample--</option>
+                <option value="The product is excellent, I'm so happy with it!">Positive Example</option>
+                <option value="It's okay, nothing special about this product.">Neutral Example</option>
+                <option value="I'm very disappointed with this product.">Negative Example</option>
+            </select>
+            <br><br>
+            <button type="submit">Analyze Sentiment</button>
+        </form>
+
+        {% if prediction %}
+        <div class="result">
+            <h3>Prediction: {{ prediction }}</h3>
+            <h4>Confidence: {{ confidence }}%</h4>
+            <div id="gauge_chart"></div>
+            <script>
+                var gauge_json = {{ gauge_json | safe }};
+                Plotly.newPlot('gauge_chart', gauge_json.data, gauge_json.layout);
+            </script>
+        </div>
+        {% endif %}
+    </div>
+
+    <div class="footer">
+        <p>Sentiment Analysis Web App &copy; 2024</p>
+    </div>
+</body>
+</html>
